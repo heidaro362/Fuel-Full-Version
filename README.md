@@ -236,3 +236,6 @@ This repository serves as the official landing page for Fuel. The software is di
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Fuel today!**
+
+---
+**Last updated:** 2026-09-09 19:38:20 UTC
